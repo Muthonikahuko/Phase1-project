@@ -1,0 +1,507 @@
+tconst,primary_title,start_year,genres,averagerating,studio,domestic_gross,year,Genre1,Genre2,Genre3
+tt0359950,The Secret Life of Walter Mitty,2013,"Adventure,Comedy,Drama",7.3,Fox,58200000.0,2013,Adventure,Comedy,Drama
+tt0365907,A Walk Among the Tombstones,2014,"Action,Crime,Drama",6.5,Uni.,26300000.0,2014,Action,Crime,Drama
+tt0369610,Jurassic World,2015,"Action,Adventure,Sci-Fi",7.0,Uni.,652300000.0,2015,Action,Adventure,Sci-Fi
+tt0372538,Spy,2011,"Action,Crime,Drama",6.6,Fox,110800000.0,2015,Action,Crime,Drama
+tt0383010,The Three Stooges,2012,"Comedy,Family",5.1,Fox,44300000.0,2012,Comedy,Family,
+tt0398286,Tangled,2010,"Adventure,Animation,Comedy",7.8,BV,200800000.0,2010,Adventure,Animation,Comedy
+tt0401729,John Carter,2012,"Action,Adventure,Sci-Fi",6.6,BV,73100000.0,2012,Action,Adventure,Sci-Fi
+tt0409847,Cowboys & Aliens,2011,"Action,Sci-Fi,Thriller",6.0,Uni.,100200000.0,2011,Action,Sci-Fi,Thriller
+tt0429493,The A-Team,2010,"Action,Adventure,Thriller",6.8,Fox,77200000.0,2010,Action,Adventure,Thriller
+tt0433035,Real Steel,2011,"Action,Drama,Family",7.1,BV,85500000.0,2011,Action,Drama,Family
+tt0435761,Toy Story 3,2010,"Adventure,Animation,Comedy",8.3,BV,415000000.0,2010,Adventure,Animation,Comedy
+tt0443272,Lincoln,2012,"Biography,Drama,History",7.4,BV,182200000.0,2012,Biography,Drama,History
+tt0446029,Scott Pilgrim vs. the World,2010,"Action,Comedy,Fantasy",7.5,Uni.,31500000.0,2010,Action,Comedy,Fantasy
+tt0451279,Wonder Woman,2017,"Action,Adventure,Fantasy",7.5,WB,412600000.0,2017,Action,Adventure,Fantasy
+tt0454876,Life of Pi,2012,"Adventure,Drama,Fantasy",7.9,Fox,125000000.0,2012,Adventure,Drama,Fantasy
+tt0455944,The Equalizer,2014,"Action,Crime,Thriller",7.2,Sony,101500000.0,2014,Action,Crime,Thriller
+tt0471042,Tower Heist,2011,"Action,Comedy,Crime",6.2,Uni.,78000000.0,2011,Action,Comedy,Crime
+tt0472181,The Smurfs,2011,"Adventure,Animation,Comedy",5.5,Sony,142600000.0,2011,Adventure,Animation,Comedy
+tt0473075,Prince of Persia: The Sands of Time,2010,"Action,Adventure,Fantasy",6.6,BV,90800000.0,2010,Action,Adventure,Fantasy
+tt0475290,"Hail, Caesar!",2016,"Comedy,Drama,Music",6.3,Uni.,30500000.0,2016,Comedy,Drama,Music
+tt0477080,Unstoppable,2010,"Action,Thriller",6.8,Fox,81600000.0,2010,Action,Thriller,
+tt0477302,Extremely Loud & Incredibly Close,2011,"Adventure,Drama,Mystery",6.9,WB,31800000.0,2011,Adventure,Drama,Mystery
+tt0478970,Ant-Man,2015,"Action,Adventure,Comedy",7.3,BV,180200000.0,2015,Action,Adventure,Comedy
+tt0480255,The Losers,2010,"Action,Adventure,Crime",6.4,WB,23600000.0,2010,Action,Adventure,Crime
+tt0481499,The Croods,2013,"Action,Adventure,Animation",7.2,Fox,187200000.0,2013,Action,Adventure,Animation
+tt0485985,Red Tails,2012,"Action,Adventure,Drama",5.9,Fox,49900000.0,2012,Action,Adventure,Drama
+tt0491152,Something Borrowed,2011,"Comedy,Drama,Romance",5.9,WB,39000000.0,2011,Comedy,Drama,Romance
+tt0493949,Ramona and Beezus,2010,"Adventure,Comedy,Family",6.6,Fox,26200000.0,2010,Adventure,Comedy,Family
+tt0770703,What's Your Number?,2011,"Comedy,Romance",6.1,Fox,14000000.0,2011,Comedy,Romance,
+tt0770828,Man of Steel,2013,"Action,Adventure,Sci-Fi",7.1,WB,291000000.0,2013,Action,Adventure,Sci-Fi
+tt0780653,The Wolfman,2010,"Drama,Fantasy,Horror",5.8,Uni.,62000000.0,2010,Drama,Fantasy,Horror
+tt0790736,R.I.P.D.,2013,"Action,Adventure,Comedy",5.6,Uni.,33600000.0,2013,Action,Adventure,Comedy
+tt0803096,Warcraft,2016,"Action,Adventure,Fantasy",6.9,Uni.,47400000.0,2016,Action,Adventure,Fantasy
+tt0804509,The Mule,2013,"Comedy,Drama",6.2,WB,103800000.0,2018,Comedy,Drama,
+tt0808510,Tooth Fairy,2010,"Comedy,Family,Fantasy",5.0,Fox,60000000.0,2010,Comedy,Family,Fantasy
+tt0810913,Jack and Jill,2011,Comedy,3.3,Sony,74200000.0,2011,Comedy,,
+tt0816442,The Book Thief,2013,"Drama,War",7.6,Fox,21500000.0,2013,Drama,War,
+tt0817177,Flipped,2010,"Comedy,Drama,Romance",7.7,WB,1800000.0,2010,Comedy,Drama,Romance
+tt0829150,Dracula Untold,2014,"Action,Drama,Fantasy",6.3,Uni.,56300000.0,2014,Action,Drama,Fantasy
+tt0837562,Hotel Transylvania,2012,"Animation,Comedy,Family",7.1,Sony,148300000.0,2012,Animation,Comedy,Family
+tt0840361,The Town,2010,"Crime,Drama,Thriller",7.6,WB,92200000.0,2010,Crime,Drama,Thriller
+tt0848537,Epic,2013,"Adventure,Animation,Family",6.7,Fox,107500000.0,2013,Adventure,Animation,Family
+tt0850709,Risen,2010,"Biography,Drama",5.3,Sony,36900000.0,2016,Biography,Drama,
+tt0864835,Mr. Peabody & Sherman,2014,"Adventure,Animation,Comedy",6.8,Fox,111500000.0,2014,Adventure,Animation,Comedy
+tt0872230,My Soul to Take,2010,"Horror,Mystery,Thriller",4.8,Uni.,14700000.0,2010,Horror,Mystery,Thriller
+tt0879870,Eat Pray Love,2010,"Drama,Romance",5.8,Sony,80600000.0,2010,Drama,Romance,
+tt0881320,Sanctum,2011,"Adventure,Drama,Thriller",5.9,Uni.,23200000.0,2011,Adventure,Drama,Thriller
+tt0918940,The Legend of Tarzan,2016,"Action,Adventure,Drama",6.3,WB,126600000.0,2016,Action,Adventure,Drama
+tt0944835,Salt,2010,"Action,Mystery,Thriller",6.4,Sony,118300000.0,2010,Action,Mystery,Thriller
+tt0947810,Green Zone,2010,"Action,Drama,Thriller",6.8,Uni.,35100000.0,2010,Action,Drama,Thriller
+tt0948470,The Amazing Spider-Man,2012,"Action,Adventure,Sci-Fi",7.0,Sony,262000000.0,2012,Action,Adventure,Sci-Fi
+tt0955308,Robin Hood,2010,"Action,Adventure,Drama",6.6,Uni.,105300000.0,2010,Action,Adventure,Drama
+tt0963966,The Sorcerer's Apprentice,2010,"Action,Adventure,Family",6.1,BV,63200000.0,2010,Action,Adventure,Family
+tt0970866,Little Fockers,2010,"Comedy,Romance",5.5,Uni.,148400000.0,2010,Comedy,Romance,
+tt0974015,Justice League,2017,"Action,Adventure,Fantasy",6.5,WB,229000000.0,2017,Action,Adventure,Fantasy
+tt0978764,Sucker Punch,2011,"Action,Adventure,Fantasy",6.1,WB,36400000.0,2011,Action,Adventure,Fantasy
+tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,"Adventure,Family,Fantasy",6.3,Fox,104400000.0,2010,Adventure,Family,Fantasy
+tt0985694,Machete,2010,"Action,Crime,Thriller",6.6,Fox,26600000.0,2010,Action,Crime,Thriller
+tt0990407,The Green Hornet,2011,"Action,Comedy,Crime",5.8,Sony,98800000.0,2011,Action,Comedy,Crime
+tt1024648,Argo,2012,"Biography,Drama,Thriller",7.7,WB,136000000.0,2012,Biography,Drama,Thriller
+tt1027718,Wall Street: Money Never Sleeps,2010,Drama,6.2,Fox,52500000.0,2010,Drama,,
+tt1028576,Secretariat,2010,"Biography,Drama,Family",7.2,BV,59700000.0,2010,Biography,Drama,Family
+tt1037705,The Book of Eli,2010,"Action,Adventure,Drama",6.9,WB,94800000.0,2010,Action,Adventure,Drama
+tt1038919,The Bounty Hunter,2010,"Action,Comedy,Romance",5.6,Sony,67099999.0,2010,Action,Comedy,Romance
+tt1047540,Parental Guidance,2012,"Comedy,Family",6.1,Fox,77300000.0,2012,Comedy,Family,
+tt1051904,Goosebumps,2015,"Adventure,Comedy,Family",6.3,Sony,80100000.0,2015,Adventure,Comedy,Family
+tt1053424,Repo Men,2010,"Action,Crime,Sci-Fi",6.3,Uni.,13800000.0,2010,Action,Crime,Sci-Fi
+tt1053810,The Big Year,2011,Comedy,6.2,Fox,7200000.0,2011,Comedy,,
+tt1055292,Life as We Know It,2010,"Comedy,Drama,Romance",6.6,WB,53400000.0,2010,Comedy,Drama,Romance
+tt1067583,Water for Elephants,2011,"Drama,Romance",6.9,Fox,58700000.0,2011,Drama,Romance,
+tt1067774,Monte Carlo,2011,"Adventure,Comedy,Family",5.8,Fox,23200000.0,2011,Adventure,Comedy,Family
+tt1071875,Ghost Rider: Spirit of Vengeance,2011,"Action,Fantasy,Thriller",4.3,Sony,51800000.0,2012,Action,Fantasy,Thriller
+tt1074638,Skyfall,2012,"Action,Adventure,Thriller",7.8,Sony,304400000.0,2012,Action,Adventure,Thriller
+tt1075747,Jonah Hex,2010,"Action,Drama,Fantasy",4.7,WB,10500000.0,2010,Action,Drama,Fantasy
+tt1077368,Dark Shadows,2012,"Comedy,Fantasy,Horror",6.2,WB,79700000.0,2012,Comedy,Fantasy,Horror
+tt1083452,Eddie the Eagle,2015,"Biography,Comedy,Drama",7.4,Fox,15800000.0,2016,Biography,Comedy,Drama
+tt1086772,Blended,2014,"Comedy,Romance",6.5,WB,46300000.0,2014,Comedy,Romance,
+tt1091191,Lone Survivor,2013,"Action,Biography,Drama",7.5,Uni.,125100000.0,2013,Action,Biography,Drama
+tt1092026,Paul,2011,"Adventure,Comedy,Sci-Fi",7.0,Uni.,37400000.0,2011,Adventure,Comedy,Sci-Fi
+tt1121096,Seventh Son,2014,"Action,Adventure,Fantasy",5.5,Uni.,17200000.0,2015,Action,Adventure,Fantasy
+tt1124035,The Ides of March,2011,"Drama,Thriller",7.1,Sony,41000000.0,2011,Drama,Thriller,
+tt1133985,Green Lantern,2011,"Action,Adventure,Sci-Fi",5.5,WB,116600000.0,2011,Action,Adventure,Sci-Fi
+tt1142977,Frankenweenie,2012,"Animation,Comedy,Family",7.0,BV,35300000.0,2012,Animation,Comedy,Family
+tt1155076,The Karate Kid,2010,"Action,Drama,Family",6.2,Sony,176600000.0,2010,Action,Drama,Family
+tt1185416,When in Rome,2010,"Comedy,Romance",5.6,BV,32700000.0,2010,Comedy,Romance,
+tt1194173,The Bourne Legacy,2012,"Action,Adventure,Thriller",6.7,Uni.,113200000.0,2012,Action,Adventure,Thriller
+tt1195478,The Five-Year Engagement,2012,"Comedy,Romance",6.2,Uni.,28800000.0,2012,Comedy,Romance,
+tt1196141,Diary of a Wimpy Kid,2010,"Comedy,Drama,Family",6.2,Fox,64000000.0,2010,Comedy,Drama,Family
+tt1204342,The Muppets,2011,"Adventure,Comedy,Family",7.1,BV,88600000.0,2011,Adventure,Comedy,Family
+tt1204977,Ouija,2014,"Horror,Mystery,Thriller",4.5,Uni.,50900000.0,2014,Horror,Mystery,Thriller
+tt1210166,Moneyball,2011,"Biography,Drama,Sport",7.6,Sony,75600000.0,2011,Biography,Drama,Sport
+tt1210819,The Lone Ranger,2013,"Action,Adventure,Western",6.4,BV,89300000.0,2013,Action,Adventure,Western
+tt1211837,Doctor Strange,2016,"Action,Adventure,Fantasy",7.5,BV,232600000.0,2016,Action,Adventure,Fantasy
+tt1212419,Hereafter,2010,"Drama,Fantasy,Romance",6.5,WB,32700000.0,2010,Drama,Fantasy,Romance
+tt1213641,First Man,2018,"Biography,Drama,History",7.4,Uni.,44900000.0,2018,Biography,Drama,History
+tt1216475,Cars 2,2011,"Adventure,Animation,Comedy",6.2,BV,191500000.0,2011,Adventure,Animation,Comedy
+tt1216492,Leap Year,2010,"Comedy,Romance",6.5,Uni.,25900000.0,2010,Comedy,Romance,
+tt1217209,Brave,2012,"Adventure,Animation,Comedy",7.1,BV,237300000.0,2012,Adventure,Animation,Comedy
+tt1219342,Legend of the Guardians: The Owls of Ga'Hoole,2010,"Action,Adventure,Animation",7.0,WB,55700000.0,2010,Action,Adventure,Animation
+tt1222815,Chimpanzee,2012,Documentary,7.2,BV,29000000.0,2012,Documentary,,
+tt1222817,Zookeeper,2011,"Comedy,Family,Romance",5.2,Sony,80400000.0,2011,Comedy,Family,Romance
+tt1223236,African Cats,2011,"Adventure,Documentary",7.6,BV,15400000.0,2011,Adventure,Documentary,
+tt1226229,Get Him to the Greek,2010,"Adventure,Comedy,Music",6.4,Uni.,61000000.0,2010,Adventure,Comedy,Music
+tt1226273,Edge of Darkness,2010,"Crime,Drama,Mystery",6.6,WB,43300000.0,2010,Crime,Drama,Mystery
+tt1231583,Due Date,2010,"Adventure,Comedy",6.5,WB,100500000.0,2010,Adventure,Comedy,
+tt1232200,That's My Boy,2012,Comedy,5.6,Sony,36900000.0,2012,Comedy,,
+tt1232829,21 Jump Street,2012,"Action,Comedy,Crime",7.2,Sony,138400000.0,2012,Action,Comedy,Crime
+tt1235522,Broken City,2013,"Crime,Drama,Thriller",6.2,Fox,19700000.0,2013,Crime,Drama,Thriller
+tt1240982,Your Highness,2011,"Adventure,Comedy,Fantasy",5.5,Uni.,21600000.0,2011,Adventure,Comedy,Fantasy
+tt1243957,The Tourist,2010,"Action,Adventure,Thriller",6.0,Sony,67600000.0,2010,Action,Adventure,Thriller
+tt1243974,Aloha,2015,"Comedy,Drama,Romance",5.4,Sony,21100000.0,2015,Comedy,Drama,Romance
+tt1258972,The Man with the Iron Fists,2012,Action,5.4,Uni.,15600000.0,2012,Action,,
+tt1268799,A Very Harold & Kumar 3D Christmas,2011,"Adventure,Comedy",6.3,WB,35100000.0,2011,Adventure,Comedy,
+tt1270798,X-Men: First Class,2011,"Action,Adventure,Sci-Fi",7.7,Fox,146400000.0,2011,Action,Adventure,Sci-Fi
+tt1272878,2 Guns,2013,"Action,Comedy,Crime",6.7,Uni.,75600000.0,2013,Action,Comedy,Crime
+tt1279935,Date Night,2010,"Comedy,Crime,Romance",6.3,Fox,98700000.0,2010,Comedy,Crime,Romance
+tt1284575,Bad Teacher,2011,"Comedy,Romance",5.7,Sony,100300000.0,2011,Comedy,Romance,
+tt1285016,The Social Network,2010,"Biography,Drama",7.7,Sony,97000000.0,2010,Biography,Drama,
+tt1287468,Cats & Dogs: The Revenge of Kitty Galore,2010,"Action,Comedy,Family",4.3,WB,43600000.0,2010,Action,Comedy,Family
+tt1294226,The Last Song,2010,"Drama,Music,Romance",6.0,BV,63000000.0,2010,Drama,Music,Romance
+tt1298649,The Watch,2012,"Action,Comedy,Horror",5.7,Fox,35400000.0,2012,Action,Comedy,Horror
+tt1298650,Pirates of the Caribbean: On Stranger Tides,2011,"Action,Adventure,Fantasy",6.6,BV,241100000.0,2011,Action,Adventure,Fantasy
+tt1300854,Iron Man 3,2013,"Action,Adventure,Sci-Fi",7.2,BV,409000000.0,2013,Action,Adventure,Sci-Fi
+tt1302067,Yogi Bear,2010,"Adventure,Animation,Comedy",4.6,WB,100200000.0,2010,Adventure,Animation,Comedy
+tt1305591,Mars Needs Moms,2011,"Adventure,Animation,Family",5.4,BV,21400000.0,2011,Adventure,Animation,Family
+tt1308729,Bullet to the Head,2012,"Action,Crime,Thriller",5.7,WB,9500000.0,2013,Action,Crime,Thriller
+tt1314655,Devil,2010,"Horror,Mystery,Thriller",6.2,Uni.,33600000.0,2010,Horror,Mystery,Thriller
+tt1318514,Rise of the Planet of the Apes,2011,"Action,Drama,Sci-Fi",7.6,Fox,176800000.0,2011,Action,Drama,Sci-Fi
+tt1320261,Gulliver's Travels,2010,"Adventure,Comedy,Family",4.9,Fox,42800000.0,2010,Adventure,Comedy,Family
+tt1321870,Gangster Squad,2013,"Action,Crime,Drama",6.7,WB,46000000.0,2013,Action,Crime,Drama
+tt1323045,Frozen,2010,"Adventure,Drama,Sport",6.2,BV,400700000.0,2013,Adventure,Drama,Sport
+tt1323594,Despicable Me,2010,"Animation,Comedy,Family",7.7,Uni.,251500000.0,2010,Animation,Comedy,Family
+tt1327194,The Lucky One,2012,"Drama,Romance",6.5,WB,60500000.0,2012,Drama,Romance,
+tt1335975,47 Ronin,2013,"Action,Adventure,Drama",6.3,Uni.,38400000.0,2013,Action,Adventure,Drama
+tt1341188,How Do You Know,2010,"Comedy,Drama,Romance",5.4,Sony,30200000.0,2010,Comedy,Drama,Romance
+tt1345836,The Dark Knight Rises,2012,"Action,Thriller",8.4,WB,448100000.0,2012,Action,Thriller,
+tt1355683,Black Mass,2015,"Biography,Crime,Drama",6.9,WB,62600000.0,2015,Biography,Crime,Drama
+tt1365519,Tomb Raider,2018,"Action,Adventure,Fantasy",6.3,WB,58300000.0,2018,Action,Adventure,Fantasy
+tt1366344,The Sitter,2011,Comedy,5.7,Fox,30400000.0,2011,Comedy,,
+tt1371111,Cloud Atlas,2012,"Action,Drama,Mystery",7.4,WB,27100000.0,2012,Action,Drama,Mystery
+tt1375666,Inception,2010,"Action,Adventure,Sci-Fi",8.8,WB,292600000.0,2010,Action,Adventure,Sci-Fi
+tt1375670,Grown Ups,2010,Comedy,6.0,Sony,162000000.0,2010,Comedy,,
+tt1385826,The Adjustment Bureau,2011,"Romance,Sci-Fi,Thriller",7.1,Uni.,62500000.0,2011,Romance,Sci-Fi,Thriller
+tt1385867,Cop Out,2010,"Action,Comedy,Crime",5.6,WB,44900000.0,2010,Action,Comedy,Crime
+tt1386588,The Other Guys,2010,"Action,Comedy,Crime",6.7,Sony,119200000.0,2010,Action,Comedy,Crime
+tt1386697,Suicide Squad,2016,"Action,Adventure,Fantasy",6.0,WB,325100000.0,2016,Action,Adventure,Fantasy
+tt1389137,We Bought a Zoo,2011,"Comedy,Drama,Family",7.1,Fox,75600000.0,2011,Comedy,Drama,Family
+tt1390411,In the Heart of the Sea,2015,"Action,Adventure,Biography",6.9,WB,25000000.0,2015,Action,Adventure,Biography
+tt1392190,Mad Max: Fury Road,2015,"Action,Adventure,Sci-Fi",8.1,WB,153600000.0,2015,Action,Adventure,Sci-Fi
+tt1392197,Marmaduke,2010,"Comedy,Family",4.2,Fox,33600000.0,2010,Comedy,Family,
+tt1392214,Prisoners,2013,"Crime,Drama,Mystery",8.1,WB,61000000.0,2013,Crime,Drama,Mystery
+tt1396218,Mr. Popper's Penguins,2011,"Comedy,Family,Fantasy",6.0,Fox,68200000.0,2011,Comedy,Family,Fantasy
+tt1397280,Taken 2,2012,"Action,Thriller",6.3,Fox,139900000.0,2012,Action,Thriller,
+tt1398426,Straight Outta Compton,2015,"Biography,Drama,History",7.9,Uni.,161200000.0,2015,Biography,Drama,History
+tt1401152,Unknown,2011,"Action,Mystery,Thriller",6.9,WB,63700000.0,2011,Action,Mystery,Thriller
+tt1402488,Happy Feet Two,2011,"Adventure,Animation,Comedy",5.9,WB,64000000.0,2011,Adventure,Animation,Comedy
+tt1408253,Ride Along,2014,"Action,Comedy,Crime",6.2,Uni.,134900000.0,2014,Action,Comedy,Crime
+tt1411250,Riddick,2013,"Action,Adventure,Sci-Fi",6.4,Uni.,42000000.0,2013,Action,Adventure,Sci-Fi
+tt1411697,The Hangover Part II,2011,"Comedy,Mystery",6.5,WB,254500000.0,2011,Comedy,Mystery,
+tt1411704,Hop,2011,"Adventure,Animation,Comedy",5.4,Uni.,108100000.0,2011,Adventure,Animation,Comedy
+tt1413492,12 Strong,2018,"Action,Drama,History",6.6,WB,45800000.0,2018,Action,Drama,History
+tt1414382,You Again,2010,"Comedy,Family,Romance",5.8,BV,25700000.0,2010,Comedy,Family,Romance
+tt1415283,Nanny McPhee Returns,2010,"Comedy,Family,Fantasy",6.1,Uni.,29000000.0,2010,Comedy,Family,Fantasy
+tt1424381,Predators,2010,"Action,Adventure,Sci-Fi",6.4,Fox,52000000.0,2010,Action,Adventure,Sci-Fi
+tt1430132,The Wolverine,2013,"Action,Adventure,Sci-Fi",6.7,Fox,132600000.0,2013,Action,Adventure,Sci-Fi
+tt1430607,Arthur Christmas,2011,"Adventure,Animation,Comedy",7.1,Sony,46500000.0,2011,Adventure,Animation,Comedy
+tt1430615,Big Miracle,2012,"Biography,Drama,Family",6.5,Uni.,20200000.0,2012,Biography,Drama,Family
+tt1430626,The Pirates! Band of Misfits,2012,"Adventure,Animation,Comedy",6.7,Sony,31100000.0,2012,Adventure,Animation,Comedy
+tt1431045,Deadpool,2016,"Action,Adventure,Comedy",8.0,Fox,363100000.0,2016,Action,Adventure,Comedy
+tt1433822,The Apparition,2012,"Horror,Thriller",4.1,WB,4900000.0,2012,Horror,Thriller,
+tt1436562,Rio,2011,"Adventure,Animation,Comedy",6.9,Fox,143600000.0,2011,Adventure,Animation,Comedy
+tt1438254,Charlie St. Cloud,2010,"Drama,Fantasy,Romance",6.5,Uni.,31200000.0,2010,Drama,Fantasy,Romance
+tt1440129,Battleship,2012,"Action,Adventure,Sci-Fi",5.8,Uni.,65400000.0,2012,Action,Adventure,Sci-Fi
+tt1446714,Prometheus,2012,"Adventure,Mystery,Sci-Fi",7.0,Fox,126500000.0,2012,Adventure,Mystery,Sci-Fi
+tt1449283,Winnie the Pooh,2011,"Adventure,Animation,Comedy",7.2,BV,26700000.0,2011,Adventure,Animation,Comedy
+tt1453405,Monsters University,2013,"Adventure,Animation,Comedy",7.3,BV,268500000.0,2013,Adventure,Animation,Comedy
+tt1454029,The Help,2011,Drama,8.1,BV,169700000.0,2011,Drama,,
+tt1454468,Gravity,2013,"Drama,Sci-Fi,Thriller",7.7,WB,274100000.0,2013,Drama,Sci-Fi,Thriller
+tt1462769,The Odd Life of Timothy Green,2012,"Comedy,Drama,Family",6.6,BV,51900000.0,2012,Comedy,Drama,Family
+tt1464174,"Big Mommas: Like Father, Like Son",2011,"Action,Comedy,Crime",4.4,Fox,37900000.0,2011,Action,Comedy,Crime
+tt1464540,I Am Number Four,2011,"Action,Adventure,Sci-Fi",6.1,BV,55100000.0,2011,Action,Adventure,Sci-Fi
+tt1470023,MacGruber,2010,"Action,Comedy,Romance",5.5,Uni.,8500000.0,2010,Action,Comedy,Romance
+tt1473832,Bridget Jones's Baby,2016,"Comedy,Drama,Romance",6.5,Uni.,24300000.0,2016,Comedy,Drama,Romance
+tt1477834,Aquaman,2018,"Action,Adventure,Fantasy",7.1,WB,335100000.0,2018,Action,Adventure,Fantasy
+tt1478338,Bridesmaids,2011,"Comedy,Romance",6.8,Uni.,169100000.0,2011,Comedy,Romance,
+tt1483013,Oblivion,2013,"Action,Adventure,Sci-Fi",7.0,Uni.,89100000.0,2013,Action,Adventure,Sci-Fi
+tt1485796,The Greatest Showman,2017,"Biography,Drama,Musical",7.6,Fox,174300000.0,2017,Biography,Drama,Musical
+tt1486185,Red Riding Hood,2011,"Fantasy,Horror,Mystery",5.5,WB,37700000.0,2011,Fantasy,Horror,Mystery
+tt1488555,The Change-Up,2011,"Comedy,Fantasy",6.3,Uni.,37100000.0,2011,Comedy,Fantasy,
+tt1502712,Fantastic Four,2015,"Action,Adventure,Drama",4.3,Fox,56100000.0,2015,Action,Adventure,Drama
+tt1515091,Sherlock Holmes: A Game of Shadows,2011,"Action,Adventure,Crime",7.5,WB,186800000.0,2011,Action,Adventure,Crime
+tt1521197,Anonymous,2011,"Drama,Thriller",6.9,Sony,4500000.0,2011,Drama,Thriller,
+tt1524137,Contraband,2012,"Action,Crime,Drama",6.5,Uni.,66500000.0,2012,Action,Crime,Drama
+tt1528100,Exodus: Gods and Kings,2014,"Action,Adventure,Drama",6.0,Fox,65000000.0,2014,Action,Adventure,Drama
+tt1535109,Captain Phillips,2013,"Biography,Drama,Thriller",7.8,Sony,107100000.0,2013,Biography,Drama,Thriller
+tt1535438,Hope Springs,2012,"Comedy,Drama,Romance",6.3,Sony,63500000.0,2012,Comedy,Drama,Romance
+tt1547234,Premium Rush,2012,"Action,Crime,Thriller",6.5,Sony,20300000.0,2012,Action,Crime,Thriller
+tt1564349,Dolphin Tale,2011,"Drama,Family",6.9,WB,72300000.0,2011,Drama,Family,
+tt1564585,Skyline,2010,"Action,Sci-Fi,Thriller",4.4,Uni.,21400000.0,2010,Action,Sci-Fi,Thriller
+tt1568911,War Horse,2011,"Drama,History,War",7.2,BV,79900000.0,2011,Drama,History,War
+tt1568921,The Secret World of Arrietty,2010,"Adventure,Animation,Family",7.6,BV,19200000.0,2012,Adventure,Animation,Family
+tt1570728,"Crazy, Stupid, Love.",2011,"Comedy,Drama,Romance",7.4,WB,84400000.0,2011,Comedy,Drama,Romance
+tt1570982,Celine: Through the Eyes of the World,2010,"Documentary,Music",7.9,Sony,,2010,Documentary,Music,
+tt1571234,Mortal Engines,2018,"Action,Adventure,Fantasy",6.1,Uni.,16000000.0,2018,Action,Adventure,Fantasy
+tt1578275,The Dilemma,2011,"Comedy,Drama",5.3,Uni.,48500000.0,2011,Comedy,Drama,
+tt1583420,Larry Crowne,2011,"Comedy,Drama,Romance",6.1,Uni.,35600000.0,2011,Comedy,Drama,Romance
+tt1587310,Maleficent,2014,"Action,Adventure,Family",7.0,BV,241400000.0,2014,Action,Adventure,Family
+tt1596343,Fast Five,2011,"Action,Crime,Thriller",7.3,Uni.,209800000.0,2011,Action,Crime,Thriller
+tt1596350,This Means War,2012,"Action,Comedy,Romance",6.3,Fox,54800000.0,2012,Action,Comedy,Romance
+tt1598778,Contagion,2011,"Action,Drama,Thriller",6.6,WB,75700000.0,2011,Action,Drama,Thriller
+tt1604171,Prom,2011,"Comedy,Drama,Family",5.4,BV,10100000.0,2011,Comedy,Drama,Family
+tt1605630,American Reunion,2012,Comedy,6.7,Uni.,57000000.0,2012,Comedy,,
+tt1605776,The Visit,2010,"Comedy,Drama,Romance",8.3,Uni.,65200000.0,2015,Comedy,Drama,Romance
+tt1606378,A Good Day to Die Hard,2013,"Action,Thriller",5.3,Fox,67300000.0,2013,Action,Thriller,
+tt1611224,Abraham Lincoln: Vampire Hunter,2012,"Action,Fantasy,Horror",5.9,Fox,37500000.0,2012,Action,Fantasy,Horror
+tt1615918,Alvin and the Chipmunks: Chipwrecked,2011,"Adventure,Animation,Comedy",4.4,Fox,133100000.0,2011,Adventure,Animation,Comedy
+tt1616195,J. Edgar,2011,"Biography,Crime,Drama",6.6,WB,37300000.0,2011,Biography,Crime,Drama
+tt1617661,Jupiter Ascending,2015,"Action,Adventure,Sci-Fi",5.3,WB,47400000.0,2015,Action,Adventure,Sci-Fi
+tt1620680,A Wrinkle in Time,2018,"Adventure,Family,Fantasy",4.2,BV,100500000.0,2018,Adventure,Family,Fantasy
+tt1622547,30 Minutes or Less,2011,"Action,Comedy,Crime",6.1,Sony,37100000.0,2011,Action,Comedy,Crime
+tt1628841,Independence Day: Resurgence,2016,"Action,Adventure,Sci-Fi",5.2,Fox,103100000.0,2016,Action,Adventure,Sci-Fi
+tt1629757,Chasing Mavericks,2012,"Biography,Drama,Sport",7.2,Fox,6000000.0,2012,Biography,Drama,Sport
+tt1631867,Edge of Tomorrow,2014,"Action,Sci-Fi",7.9,WB,100200000.0,2014,Action,Sci-Fi,
+tt1634122,Johnny English Reborn,2011,"Action,Adventure,Comedy",6.3,Uni.,8300000.0,2011,Action,Adventure,Comedy
+tt1636456,The Intern,2010,,5.5,WB,75800000.0,2015,,,
+tt1636826,Project X,2012,Comedy,6.7,WB,54700000.0,2012,Comedy,,
+tt1637688,In Time,2011,"Action,Crime,Drama",6.7,Fox,37500000.0,2011,Action,Crime,Drama
+tt1637725,Ted,2012,"Comedy,Fantasy",6.9,Uni.,218800000.0,2012,Comedy,Fantasy,
+tt1640486,Inside Out,2011,"Crime,Drama",4.6,BV,356500000.0,2015,Crime,Drama,
+tt1646971,How to Train Your Dragon 2,2014,"Action,Adventure,Animation",7.8,Fox,177000000.0,2014,Action,Adventure,Animation
+tt1646987,Wrath of the Titans,2012,"Action,Adventure,Fantasy",5.7,WB,83700000.0,2012,Action,Adventure,Fantasy
+tt1647668,Million Dollar Arm,2014,"Biography,Drama,Sport",7.0,BV,36500000.0,2014,Biography,Drama,Sport
+tt1648179,Here Comes the Boom,2012,"Action,Comedy,Sport",6.4,Sony,45300000.0,2012,Action,Comedy,Sport
+tt1648190,The Dark Tower,2017,"Action,Adventure,Fantasy",5.7,Sony,50700000.0,2017,Action,Adventure,Fantasy
+tt1650043,Diary of a Wimpy Kid: Rodrick Rules,2011,"Comedy,Family",6.6,Fox,52700000.0,2011,Comedy,Family,
+tt1650554,Kick-Ass 2,2013,"Action,Comedy,Crime",6.6,Uni.,28800000.0,2013,Action,Comedy,Crime
+tt1661382,Grudge Match,2013,"Comedy,Drama,Sport",6.4,WB,29800000.0,2013,Comedy,Drama,Sport
+tt1663202,The Revenant,2015,"Action,Adventure,Biography",8.0,Fox,183600000.0,2015,Action,Adventure,Biography
+tt1663662,Pacific Rim,2013,"Action,Adventure,Sci-Fi",6.9,WB,101800000.0,2013,Action,Adventure,Sci-Fi
+tt1664775,Pixels,2010,"Action,Comedy",4.6,Sony,78700000.0,2015,Action,Comedy,
+tt1666186,Vampires Suck,2010,Comedy,3.4,Fox,36700000.0,2010,Comedy,,
+tt1667889,Ice Age: Continental Drift,2012,"Adventure,Animation,Comedy",6.6,Fox,161300000.0,2012,Adventure,Animation,Comedy
+tt1674771,Entourage,2015,Comedy,6.6,WB,32400000.0,2015,Comedy,,
+tt1677720,Ready Player One,2018,"Action,Adventure,Sci-Fi",7.5,WB,137700000.0,2018,Action,Adventure,Sci-Fi
+tt1679335,Trolls,2016,"Adventure,Animation,Comedy",6.5,Fox,153700000.0,2016,Adventure,Animation,Comedy
+tt1690953,Despicable Me 2,2013,"Adventure,Animation,Comedy",7.4,Uni.,368100000.0,2013,Adventure,Animation,Comedy
+tt1691917,Planes,2013,"Adventure,Animation,Comedy",5.7,BV,90300000.0,2013,Adventure,Animation,Comedy
+tt1698641,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,"Comedy,Family",6.2,BV,67000000.0,2014,Comedy,Family,
+tt1700841,Sausage Party,2016,"Adventure,Animation,Comedy",6.2,Sony,97700000.0,2016,Adventure,Animation,Comedy
+tt1710396,Joyful Noise,2012,"Comedy,Drama,Music",5.8,WB,30900000.0,2012,Comedy,Drama,Music
+tt1716777,People Like Us,2012,"Comedy,Drama",7.1,BV,12400000.0,2012,Comedy,Drama,
+tt1727824,Bohemian Rhapsody,2018,"Biography,Drama,Music",8.0,Fox,216400000.0,2018,Biography,Drama,Music
+tt1735898,Snow White and the Huntsman,2012,"Action,Adventure,Drama",6.1,Uni.,155300000.0,2012,Action,Adventure,Drama
+tt1742044,Jersey Boys,2014,"Biography,Drama,Music",6.8,WB,47000000.0,2014,Biography,Drama,Music
+tt1753383,A Dog's Purpose,2017,"Adventure,Comedy,Drama",7.1,Uni.,64500000.0,2017,Adventure,Comedy,Drama
+tt1758810,The Snowman,2017,"Crime,Drama,Mystery",5.1,Uni.,6700000.0,2017,Crime,Drama,Mystery
+tt1758830,This Is 40,2012,"Comedy,Romance",6.2,Uni.,67500000.0,2012,Comedy,Romance,
+tt1772341,Wreck-It Ralph,2012,"Adventure,Animation,Comedy",7.7,BV,189400000.0,2012,Adventure,Animation,Comedy
+tt1785670,Widows,2011,"Comedy,Drama",6.3,Fox,42400000.0,2018,Comedy,Drama,
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,2017,"Action,Adventure,Fantasy",6.6,BV,172600000.0,2017,Action,Adventure,Fantasy
+tt1790864,The Maze Runner,2014,"Action,Mystery,Sci-Fi",6.8,Fox,102400000.0,2014,Action,Mystery,Sci-Fi
+tt1790885,Zero Dark Thirty,2012,"Drama,Thriller",7.4,Sony,95700000.0,2012,Drama,Thriller,
+tt1790886,The Campaign,2012,Comedy,6.1,WB,86900000.0,2012,Comedy,,
+tt1791528,Inherent Vice,2014,"Comedy,Crime,Drama",6.7,WB,8100000.0,2014,Comedy,Crime,Drama
+tt1800241,American Hustle,2013,"Crime,Drama",7.2,Sony,150100000.0,2013,Crime,Drama,
+tt1805319,Mama,2010,Drama,4.5,Uni.,71600000.0,2013,Drama,,
+tt1805411,Son of God,2010,Documentary,6.8,Fox,59700000.0,2014,Documentary,,
+tt1815862,After Earth,2013,"Action,Adventure,Drama",4.8,Sony,60500000.0,2013,Action,Adventure,Drama
+tt1823672,Chappie,2015,"Action,Crime,Drama",6.8,Sony,31600000.0,2015,Action,Crime,Drama
+tt1825683,Black Panther,2018,"Action,Adventure,Sci-Fi",7.3,BV,700100000.0,2018,Action,Adventure,Sci-Fi
+tt1837703,The Fifth Estate,2013,"Biography,Drama,Thriller",6.2,BV,3300000.0,2013,Biography,Drama,Thriller
+tt1837709,Winter's Tale,2014,"Drama,Fantasy,Mystery",6.2,WB,12600000.0,2014,Drama,Fantasy,Mystery
+tt1843866,Captain America: The Winter Soldier,2014,"Action,Adventure,Sci-Fi",7.8,BV,259800000.0,2014,Action,Adventure,Sci-Fi
+tt1850457,Sisters,2015,Comedy,6.0,Uni.,87000000.0,2015,Comedy,,
+tt1854564,Percy Jackson: Sea of Monsters,2013,"Adventure,Family,Fantasy",5.8,Fox,68600000.0,2013,Adventure,Family,Fantasy
+tt1856101,Blade Runner 2049,2017,"Drama,Mystery,Sci-Fi",8.0,WB,92100000.0,2017,Drama,Mystery,Sci-Fi
+tt1860353,Turbo,2013,"Adventure,Animation,Comedy",6.4,Fox,83000000.0,2013,Adventure,Animation,Comedy
+tt1870529,Won't Back Down,2012,Drama,6.4,Fox,5300000.0,2012,Drama,,
+tt1872181,The Amazing Spider-Man 2,2014,"Action,Adventure,Sci-Fi",6.6,Sony,202900000.0,2014,Action,Adventure,Sci-Fi
+tt1872194,The Judge,2014,"Crime,Drama",7.4,WB,47100000.0,2014,Crime,Drama,
+tt1877832,X-Men: Days of Future Past,2014,"Action,Adventure,Sci-Fi",8.0,Fox,233900000.0,2014,Action,Adventure,Sci-Fi
+tt1905041,Fast & Furious 6,2013,"Action,Crime,Thriller",7.1,Uni.,238700000.0,2013,Action,Crime,Thriller
+tt1910608,The Good Lie,2012,Thriller,6.4,WB,2700000.0,2014,Thriller,,
+tt1911658,Penguins of Madagascar,2014,"Adventure,Animation,Comedy",6.7,Fox,83400000.0,2014,Adventure,Animation,Comedy
+tt1915581,Magic Mike,2012,"Comedy,Drama",6.1,WB,113700000.0,2012,Comedy,Drama,
+tt1924435,Let's Be Cops,2014,"Comedy,Crime",6.4,Fox,82400000.0,2014,Comedy,Crime,
+tt1935859,Miss Peregrine's Home for Peculiar Children,2016,"Adventure,Drama,Fantasy",6.7,Fox,87200000.0,2016,Adventure,Drama,Fantasy
+tt1943765,Morgan,2012,"Drama,Romance",6.8,Fox,3900000.0,2016,Drama,Romance,
+tt1951261,The Hangover Part III,2013,"Adventure,Comedy,Crime",5.8,WB,112200000.0,2013,Adventure,Comedy,Crime
+tt1956620,Sex Tape,2014,"Comedy,Romance",5.1,Sony,38500000.0,2014,Comedy,Romance,
+tt1964418,Tomorrowland,2015,"Action,Adventure,Family",6.4,BV,93400000.0,2015,Action,Adventure,Family
+tt1966359,Father Figures,2017,"Adventure,Comedy,Drama",5.5,WB,17500000.0,2017,Adventure,Comedy,Drama
+tt1972591,King Arthur: Legend of the Sword,2017,"Action,Adventure,Drama",6.8,WB,39200000.0,2017,Action,Adventure,Drama
+tt1974420,Rules Don't Apply,2016,"Comedy,Drama,Romance",5.7,Fox,3700000.0,2016,Comedy,Drama,Romance
+tt1976009,Victor Frankenstein,2015,"Drama,Horror,Sci-Fi",6.0,Fox,5800000.0,2015,Drama,Horror,Sci-Fi
+tt1979388,The Good Dinosaur,2015,"Adventure,Animation,Comedy",6.7,BV,123100000.0,2015,Adventure,Animation,Comedy
+tt1981115,Thor: The Dark World,2013,"Action,Adventure,Fantasy",6.9,BV,206400000.0,2013,Action,Adventure,Fantasy
+tt1981128,Geostorm,2017,"Action,Sci-Fi,Thriller",5.3,WB,33700000.0,2017,Action,Sci-Fi,Thriller
+tt1981677,Pitch Perfect,2012,"Comedy,Music,Romance",7.2,Uni.,65000000.0,2012,Comedy,Music,Romance
+tt1985949,The Angry Birds Movie,2016,"Action,Animation,Comedy",6.3,Sony,107500000.0,2016,Action,Animation,Comedy
+tt1985966,Cloudy with a Chance of Meatballs 2,2013,"Adventure,Animation,Comedy",6.4,Sony,119800000.0,2013,Adventure,Animation,Comedy
+tt1991245,Chernobyl Diaries,2012,"Horror,Mystery,Thriller",5.0,WB,18100000.0,2012,Horror,Mystery,Thriller
+tt2004420,Neighbors,2014,Comedy,6.3,Uni.,150200000.0,2014,Comedy,,
+tt2005151,War Dogs,2016,"Comedy,Crime,Drama",7.1,WB,43000000.0,2016,Comedy,Crime,Drama
+tt2006295,The 33,2015,"Biography,Drama,History",6.9,WB,12200000.0,2015,Biography,Drama,History
+tt2013293,The Wind Rises,2013,"Animation,Biography,Drama",7.8,BV,5200000.0,2014,Animation,Biography,Drama
+tt2015381,Guardians of the Galaxy,2014,"Action,Adventure,Comedy",8.1,BV,333200000.0,2014,Action,Adventure,Comedy
+tt2017020,The Smurfs 2,2013,"Adventure,Animation,Comedy",5.4,Sony,71000000.0,2013,Adventure,Animation,Comedy
+tt2023453,Diary of a Wimpy Kid: Dog Days,2012,"Comedy,Family",6.3,Fox,49000000.0,2012,Comedy,Family,
+tt2024432,Identity Thief,2013,"Adventure,Comedy,Crime",5.7,Uni.,134500000.0,2013,Adventure,Comedy,Crime
+tt2024469,Non-Stop,2014,"Action,Mystery,Thriller",7.0,Uni.,92200000.0,2014,Action,Mystery,Thriller
+tt2025690,The Finest Hours,2016,"Action,Drama,History",6.8,BV,27600000.0,2016,Action,Drama,History
+tt2034800,The Great Wall,2016,"Action,Adventure,Fantasy",6.0,Uni.,45500000.0,2017,Action,Adventure,Fantasy
+tt2080374,Steve Jobs,2015,"Biography,Drama",7.2,Uni.,17800000.0,2015,Biography,Drama,
+tt2083355,The Best Man Holiday,2013,"Comedy,Drama",6.7,Uni.,70500000.0,2013,Comedy,Drama,
+tt2083383,Trouble with the Curve,2012,"Drama,Sport",6.8,WB,35800000.0,2012,Drama,Sport,
+tt2091256,Captain Underpants: The First Epic Movie,2017,"Action,Animation,Comedy",6.2,Fox,73900000.0,2017,Action,Animation,Comedy
+tt2094766,Assassin's Creed,2016,"Action,Adventure,Sci-Fi",5.8,Fox,54600000.0,2016,Action,Adventure,Sci-Fi
+tt2096672,Dumb and Dumber To,2014,"Adventure,Comedy",5.6,Uni.,86200000.0,2014,Adventure,Comedy,
+tt2097298,"McFarland, USA",2015,"Biography,Drama,Sport",7.4,BV,44500000.0,2015,Biography,Drama,Sport
+tt2103281,Dawn of the Planet of the Apes,2014,"Action,Adventure,Drama",7.6,Fox,208500000.0,2014,Action,Adventure,Drama
+tt2125681,Truth or Dare,2013,"Horror,Romance,Thriller",6.0,Uni.,41400000.0,2018,Horror,Romance,Thriller
+tt2140373,Saving Mr. Banks,2013,"Biography,Comedy,Drama",7.5,BV,83300000.0,2013,Biography,Comedy,Drama
+tt2140479,The Accountant,2016,"Action,Crime,Drama",7.3,WB,86300000.0,2016,Action,Crime,Drama
+tt2170439,Horrible Bosses 2,2014,"Comedy,Crime",6.3,WB,54400000.0,2014,Comedy,Crime,
+tt2177771,The Monuments Men,2014,"Comedy,Drama,History",6.1,Sony,78000000.0,2014,Comedy,Drama,History
+tt2179136,American Sniper,2014,"Action,Biography,Drama",7.3,WB,350100000.0,2014,Action,Biography,Drama
+tt2180411,Into the Woods,2014,"Adventure,Comedy,Drama",6.0,BV,128000000.0,2014,Adventure,Comedy,Drama
+tt2184339,The Purge,2013,"Horror,Thriller",5.7,Uni.,64500000.0,2013,Horror,Thriller,
+tt2191701,Grown Ups 2,2013,Comedy,5.4,Sony,133699999.0,2013,Comedy,,
+tt2193215,The Counselor,2013,"Crime,Drama,Thriller",5.3,Fox,17000000.0,2013,Crime,Drama,Thriller
+tt2194499,About Time,2013,"Comedy,Drama,Fantasy",7.8,Uni.,15300000.0,2013,Comedy,Drama,Fantasy
+tt2199571,Run All Night,2015,"Action,Drama,Thriller",6.6,WB,26500000.0,2015,Action,Drama,Thriller
+tt2202408,Transcendence,2012,Drama,6.1,WB,23000000.0,2014,Drama,,
+tt2226597,The Mountain Between Us,2017,"Action,Adventure,Drama",6.4,Fox,30300000.0,2017,Action,Adventure,Drama
+tt2234155,The Internship,2013,Comedy,6.3,Fox,44700000.0,2013,Comedy,,
+tt2245084,Big Hero 6,2014,"Action,Adventure,Animation",7.8,BV,222500000.0,2014,Action,Adventure,Animation
+tt2250912,Spider-Man: Homecoming,2017,"Action,Adventure,Sci-Fi",7.5,Sony,334200000.0,2017,Action,Adventure,Sci-Fi
+tt2267968,Kung Fu Panda 3,2016,"Action,Adventure,Animation",7.1,Fox,143500000.0,2016,Action,Adventure,Animation
+tt2267998,Gone Girl,2014,"Drama,Mystery,Thriller",8.1,Fox,167800000.0,2014,Drama,Mystery,Thriller
+tt2268016,Magic Mike XXL,2015,"Comedy,Drama,Music",5.6,WB,66000000.0,2015,Comedy,Drama,Music
+tt2277860,Finding Dory,2016,"Adventure,Animation,Comedy",7.3,BV,486300000.0,2016,Adventure,Animation,Comedy
+tt2281587,Muppets Most Wanted,2014,"Adventure,Comedy,Crime",6.4,BV,51200000.0,2014,Adventure,Comedy,Crime
+tt2283362,Jumanji: Welcome to the Jungle,2017,"Action,Adventure,Comedy",7.0,Sony,404500000.0,2017,Action,Adventure,Comedy
+tt2293640,Minions,2015,"Adventure,Animation,Comedy",6.4,Uni.,336000000.0,2015,Adventure,Animation,Comedy
+tt2294449,22 Jump Street,2014,"Action,Comedy,Crime",7.0,Sony,191700000.0,2014,Action,Comedy,Crime
+tt2304933,The 5th Wave,2016,"Action,Adventure,Drama",5.2,Sony,34900000.0,2016,Action,Adventure,Drama
+tt2316204,Alien: Covenant,2017,"Horror,Sci-Fi,Thriller",6.4,Fox,74300000.0,2017,Horror,Sci-Fi,Thriller
+tt2322441,Fifty Shades of Grey,2015,"Drama,Romance,Thriller",4.1,Uni.,166200000.0,2015,Drama,Romance,Thriller
+tt2334879,White House Down,2013,"Action,Drama,Thriller",6.4,Sony,73100000.0,2013,Action,Drama,Thriller
+tt2357291,Rio 2,2014,"Adventure,Animation,Comedy",6.3,Fox,131500000.0,2014,Adventure,Animation,Comedy
+tt2363461,The Pyramid,2013,Horror,3.9,Fox,2800000.0,2014,Horror,,
+tt2364841,Runner Runner,2013,"Crime,Thriller",5.6,Fox,19300000.0,2013,Crime,Thriller,
+tt2369135,Need for Speed,2014,"Action,Crime,Thriller",6.5,BV,43600000.0,2014,Action,Crime,Thriller
+tt2379713,Spectre,2015,"Action,Adventure,Thriller",6.8,Sony,200100000.0,2015,Action,Adventure,Thriller
+tt2381991,The Huntsman: Winter's War,2016,"Action,Adventure,Drama",6.1,Uni.,48400000.0,2016,Action,Adventure,Drama
+tt2387499,Keeping Up with the Joneses,2016,"Action,Comedy",5.9,Fox,14900000.0,2016,Action,Comedy,
+tt2387559,Delivery Man,2013,"Comedy,Drama",6.4,BV,30700000.0,2013,Comedy,Drama,
+tt2395427,Avengers: Age of Ultron,2015,"Action,Adventure,Sci-Fi",7.3,BV,459000000.0,2015,Action,Adventure,Sci-Fi
+tt2398241,Smurfs: The Lost Village,2017,"Adventure,Animation,Comedy",6.0,Sony,45000000.0,2017,Adventure,Animation,Comedy
+tt2404463,The Heat,2013,"Action,Comedy,Crime",6.6,Fox,159600000.0,2013,Action,Comedy,Crime
+tt2446042,Taken 3,2014,"Action,Thriller",6.0,Fox,89300000.0,2015,Action,Thriller,
+tt2452042,The Peanuts Movie,2015,"Adventure,Animation,Comedy",7.1,Fox,130199999.0,2015,Adventure,Animation,Comedy
+tt2458776,Bears,2014,Documentary,7.4,BV,17800000.0,2014,Documentary,,
+tt2510894,Hotel Transylvania 2,2015,"Animation,Comedy,Family",6.7,Sony,169700000.0,2015,Animation,Comedy,Family
+tt2527336,Star Wars: The Last Jedi,2017,"Action,Adventure,Fantasy",7.1,BV,620200000.0,2017,Action,Adventure,Fantasy
+tt2531344,Blockers,2018,Comedy,6.2,Uni.,60300000.0,2018,Comedy,,
+tt2547584,The Light Between Oceans,2016,"Drama,Romance",7.2,BV,12500000.0,2016,Drama,Romance,
+tt2554274,Crimson Peak,2015,"Drama,Fantasy,Horror",6.5,Uni.,31100000.0,2015,Drama,Fantasy,Horror
+tt2557490,A Million Ways to Die in the West,2014,"Comedy,Western",6.1,Uni.,43100000.0,2014,Comedy,Western,
+tt2561572,Get Hard,2015,"Comedy,Crime",6.0,WB,90400000.0,2015,Comedy,Crime,
+tt2567026,Alice Through the Looking Glass,2016,"Adventure,Family,Fantasy",6.2,BV,77000000.0,2016,Adventure,Family,Fantasy
+tt2637276,Ted 2,2015,Comedy,6.3,Uni.,81500000.0,2015,Comedy,,
+tt2649554,Midnight Special,2016,"Action,Drama,Mystery",6.6,WB,3700000.0,2016,Action,Drama,Mystery
+tt2660118,Split,2016,"Comedy,Romance,Sport",2.9,Uni.,138300000.0,2017,Comedy,Romance,Sport
+tt2679042,Hitman: Agent 47,2015,"Action,Adventure,Crime",5.7,Fox,22500000.0,2015,Action,Adventure,Crime
+tt2692250,Night at the Museum: Secret of the Tomb,2014,"Adventure,Comedy,Family",6.2,Fox,113700000.0,2014,Adventure,Comedy,Family
+tt2702724,The Boss,2016,Comedy,5.4,Uni.,63300000.0,2016,Comedy,,
+tt2709768,The Secret Life of Pets,2016,"Adventure,Animation,Comedy",6.5,Uni.,368400000.0,2016,Adventure,Animation,Comedy
+tt2717822,Blackhat,2015,"Action,Crime,Thriller",5.4,Uni.,8000000.0,2015,Action,Crime,Thriller
+tt2726560,The Longest Ride,2015,"Drama,Romance",7.1,Fox,37400000.0,2015,Drama,Romance,
+tt2732680,Oro,2013,Documentary,8.7,Sony,5500.0,2017,Documentary,,
+tt2752758,Devil's Due,2014,"Horror,Mystery,Thriller",4.1,Fox,15800000.0,2014,Horror,Mystery,Thriller
+tt2771372,Veronica Mars,2014,"Crime,Drama,Mystery",6.8,WB,3300000.0,2014,Crime,Drama,Mystery
+tt2802144,Kingsman: The Secret Service,2014,"Action,Adventure,Comedy",7.7,Fox,128300000.0,2015,Action,Adventure,Comedy
+tt2820852,Furious 7,2015,"Action,Crime,Thriller",7.2,Uni.,353000000.0,2015,Action,Crime,Thriller
+tt2823054,Mike and Dave Need Wedding Dates,2016,"Adventure,Comedy,Romance",6.0,Fox,46000000.0,2016,Adventure,Comedy,Romance
+tt2848292,Pitch Perfect 2,2015,"Comedy,Music",6.4,Uni.,184300000.0,2015,Comedy,Music,
+tt2869728,Ride Along 2,2016,"Action,Comedy,Crime",5.9,Uni.,91200000.0,2016,Action,Comedy,Crime
+tt2872732,Lucy,2014,"Action,Sci-Fi,Thriller",6.4,Uni.,126700000.0,2014,Action,Sci-Fi,Thriller
+tt2873282,Red Sparrow,2018,"Action,Drama,Thriller",6.6,Fox,46900000.0,2018,Action,Drama,Thriller
+tt2909116,Wolf Totem,2015,"Adventure,Drama",6.7,Sony,211000.0,2015,Adventure,Drama,
+tt2948356,Zootopia,2016,"Adventure,Animation,Comedy",8.0,BV,341300000.0,2016,Adventure,Animation,Comedy
+tt2974918,Alvin and the Chipmunks: The Road Chip,2015,"Adventure,Animation,Comedy",5.1,Fox,85900000.0,2015,Adventure,Animation,Comedy
+tt2975578,The Purge: Anarchy,2014,"Action,Horror,Sci-Fi",6.5,Uni.,72000000.0,2014,Action,Horror,Sci-Fi
+tt2975590,Batman v Superman: Dawn of Justice,2016,"Action,Adventure,Fantasy",6.5,WB,330400000.0,2016,Action,Adventure,Fantasy
+tt2978462,Dolphin Tale 2,2014,"Drama,Family",6.4,WB,42000000.0,2014,Drama,Family,
+tt2980648,The Hundred-Foot Journey,2014,"Comedy,Drama",7.3,BV,54200000.0,2014,Comedy,Drama,
+tt2980706,Planes: Fire & Rescue,2014,"Adventure,Animation,Comedy",6.0,BV,59200000.0,2014,Adventure,Animation,Comedy
+tt3007512,The Water Diviner,2014,"Drama,History,War",7.1,WB,4200000.0,2015,Drama,History,War
+tt3104988,Crazy Rich Asians,2018,"Comedy,Romance",7.0,WB,174500000.0,2018,Comedy,Romance,
+tt3152624,Trainwreck,2015,"Comedy,Drama,Romance",6.2,Uni.,110200000.0,2015,Comedy,Drama,Romance
+tt3181822,The Boy Next Door,2015,"Horror,Thriller",4.7,Uni.,35400000.0,2015,Horror,Thriller,
+tt3263904,Sully,2016,"Biography,Drama",7.5,WB,125100000.0,2016,Biography,Drama,
+tt3289724,Welcome to Marwen,2018,"Biography,Comedy,Drama",6.1,Uni.,10800000.0,2018,Biography,Comedy,Drama
+tt3332064,Pan,2015,"Adventure,Comedy,Family",5.8,WB,35100000.0,2015,Adventure,Comedy,Family
+tt3381008,The Brothers Grimsby,2016,"Action,Adventure,Comedy",6.2,Sony,6900000.0,2016,Action,Adventure,Comedy
+tt3385516,X-Men: Apocalypse,2016,"Action,Adventure,Sci-Fi",7.0,Fox,155400000.0,2016,Action,Adventure,Sci-Fi
+tt3411444,Ferdinand,2017,"Adventure,Animation,Comedy",6.7,Fox,84400000.0,2017,Adventure,Animation,Comedy
+tt3416828,Ice Age: Collision Course,2016,"Adventure,Animation,Comedy",5.7,Fox,64099999.0,2016,Adventure,Animation,Comedy
+tt3450650,Paul Blart: Mall Cop 2,2015,"Action,Comedy,Crime",4.4,Sony,71000000.0,2015,Action,Comedy,Crime
+tt3450958,War for the Planet of the Apes,2017,"Action,Adventure,Drama",7.5,Fox,146900000.0,2017,Action,Adventure,Drama
+tt3469046,Despicable Me 3,2017,"Adventure,Animation,Comedy",6.3,Uni.,264600000.0,2017,Adventure,Animation,Comedy
+tt3470600,Sing,2016,"Animation,Comedy,Family",7.1,Uni.,270400000.0,2016,Animation,Comedy,Family
+tt3498820,Captain America: Civil War,2016,"Action,Adventure,Sci-Fi",7.8,BV,408100000.0,2016,Action,Adventure,Sci-Fi
+tt3501632,Thor: Ragnarok,2017,"Action,Adventure,Comedy",7.9,BV,315100000.0,2017,Action,Adventure,Comedy
+tt3521164,Moana,2016,"Adventure,Animation,Comedy",7.6,BV,248800000.0,2016,Adventure,Animation,Comedy
+tt3530002,The Night Before,2015,"Adventure,Comedy,Fantasy",6.4,Sony,43000000.0,2015,Adventure,Comedy,Fantasy
+tt3532216,American Made,2017,"Action,Biography,Comedy",7.2,Uni.,51300000.0,2017,Action,Biography,Comedy
+tt3564472,Girls Trip,2017,"Comedy,Drama",6.2,Uni.,115200000.0,2017,Comedy,Drama,
+tt3566920,The Other Side of the Door,2014,Drama,3.8,Fox,3000000.0,2016,Drama,,
+tt3606752,Cars 3,2017,"Adventure,Animation,Comedy",6.8,BV,152900000.0,2017,Adventure,Animation,Comedy
+tt3606756,Incredibles 2,2018,"Action,Adventure,Animation",7.7,BV,608600000.0,2018,Action,Adventure,Animation
+tt3614530,Jem and the Holograms,2015,"Adventure,Drama,Family",4.1,Uni.,2200000.0,2015,Adventure,Drama,Family
+tt3622592,Paper Towns,2015,"Comedy,Drama,Mystery",6.3,Fox,32000000.0,2015,Comedy,Drama,Mystery
+tt3659388,The Martian,2015,"Adventure,Drama,Sci-Fi",8.0,Fox,228400000.0,2015,Adventure,Drama,Sci-Fi
+tt3660770,Monkey Kingdom,2015,Documentary,7.3,BV,16399999.0,2015,Documentary,,
+tt3682448,Bridge of Spies,2015,"Drama,History,Thriller",7.6,BV,72300000.0,2015,Drama,History,Thriller
+tt3691740,The BFG,2016,"Adventure,Family,Fantasy",6.4,BV,55500000.0,2016,Adventure,Family,Fantasy
+tt3707106,By the Sea,2015,"Drama,Romance",5.3,Uni.,538000.0,2015,Drama,Romance,
+tt3713166,Unfriended,2014,"Horror,Mystery,Thriller",5.6,Uni.,32500000.0,2015,Horror,Mystery,Thriller
+tt3731562,Kong: Skull Island,2017,"Action,Adventure,Fantasy",6.6,WB,168100000.0,2017,Action,Adventure,Fantasy
+tt3748528,Rogue One: A Star Wars Story,2016,"Action,Adventure,Sci-Fi",7.8,BV,532200000.0,2016,Action,Adventure,Sci-Fi
+tt3760922,My Big Fat Greek Wedding 2,2016,"Comedy,Romance",6.0,Uni.,59700000.0,2016,Comedy,Romance,
+tt3766354,The Equalizer 2,2018,"Action,Crime,Thriller",6.7,Sony,102100000.0,2018,Action,Crime,Thriller
+tt3778644,Solo: A Star Wars Story,2018,"Action,Adventure,Fantasy",7.0,BV,213800000.0,2018,Action,Adventure,Fantasy
+tt3787590,We Are Your Friends,2015,"Drama,Music,Romance",6.2,WB,3600000.0,2015,Drama,Music,Romance
+tt3799694,The Nice Guys,2016,"Action,Comedy,Crime",7.4,WB,36300000.0,2016,Action,Comedy,Crime
+tt3850590,Krampus,2015,"Comedy,Fantasy,Horror",6.2,Uni.,42700000.0,2015,Comedy,Fantasy,Horror
+tt3874544,The Boss Baby,2017,"Adventure,Animation,Comedy",6.3,Fox,175000000.0,2017,Adventure,Animation,Comedy
+tt3896198,Guardians of the Galaxy Vol. 2,2017,"Action,Adventure,Comedy",7.7,BV,389800000.0,2017,Action,Adventure,Comedy
+tt4046784,Maze Runner: The Scorch Trials,2015,"Action,Sci-Fi,Thriller",6.3,Fox,81700000.0,2015,Action,Sci-Fi,Thriller
+tt4052882,The Shallows,2016,"Drama,Horror,Thriller",6.3,Sony,55100000.0,2016,Drama,Horror,Thriller
+tt4073790,The Darkest Minds,2018,"Action,Adventure,Drama",5.7,Fox,12700000.0,2018,Action,Adventure,Drama
+tt4094724,The Purge: Election Year,2016,"Action,Horror,Sci-Fi",6.0,Uni.,79200000.0,2016,Action,Horror,Sci-Fi
+tt4123430,Fantastic Beasts: The Crimes of Grindelwald,2018,"Adventure,Family,Fantasy",6.6,WB,159600000.0,2018,Adventure,Family,Fantasy
+tt4154756,Avengers: Infinity War,2018,"Action,Adventure,Sci-Fi",8.5,BV,678800000.0,2018,Action,Adventure,Sci-Fi
+tt4191054,Strange Magic,2015,"Adventure,Animation,Comedy",5.8,BV,12400000.0,2015,Adventure,Animation,Comedy
+tt4196776,Jason Bourne,2016,"Action,Thriller",6.6,Uni.,162400000.0,2016,Action,Thriller,
+tt4341582,Queen of Katwe,2016,"Biography,Drama,Sport",7.4,BV,8900000.0,2016,Biography,Drama,Sport
+tt4361050,Ouija: Origin of Evil,2016,"Drama,Horror,Mystery",6.1,Uni.,35100000.0,2016,Drama,Horror,Mystery
+tt4438848,Neighbors 2: Sorority Rising,2016,Comedy,5.7,Uni.,55500000.0,2016,Comedy,,
+tt4465564,Fifty Shades Darker,2017,"Drama,Romance",4.6,Uni.,114600000.0,2017,Drama,Romance,
+tt4468740,Paddington 2,2017,"Adventure,Comedy,Family",7.9,WB,40900000.0,2018,Adventure,Comedy,Family
+tt4477536,Fifty Shades Freed,2018,"Drama,Romance,Thriller",4.5,Uni.,100400000.0,2018,Drama,Romance,Thriller
+tt4501244,Why Him?,2016,Comedy,6.2,Fox,60300000.0,2016,Comedy,,
+tt4587656,The Star,2017,"Adventure,Animation,Comedy",6.1,Sony,40900000.0,2017,Adventure,Animation,Comedy
+tt4624424,Storks,2016,"Adventure,Animation,Comedy",6.8,WB,72700000.0,2016,Adventure,Animation,Comedy
+tt4629266,Born in China,2016,Documentary,7.2,BV,13900000.0,2017,Documentary,,
+tt4630562,The Fate of the Furious,2017,"Action,Crime,Thriller",6.7,Uni.,226000000.0,2017,Action,Crime,Thriller
+tt4649416,Almost Christmas,2016,"Comedy,Drama",6.1,Uni.,42200000.0,2016,Comedy,Drama,
+tt4649466,Kingsman: The Golden Circle,2017,"Action,Adventure,Comedy",6.8,Fox,100200000.0,2017,Action,Adventure,Comedy
+tt4682788,Loving Pablo,2017,"Action,Biography,Crime",6.3,Uni.,22000.0,2018,Action,Biography,Crime
+tt4731136,A Cure for Wellness,2016,"Drama,Fantasy,Horror",6.4,Fox,8100000.0,2017,Drama,Fantasy,Horror
+tt4765284,Pitch Perfect 3,2017,"Comedy,Music",5.8,Uni.,104900000.0,2017,Comedy,Music,
+tt4779682,The Meg,2018,"Action,Horror,Sci-Fi",5.7,WB,145400000.0,2018,Action,Horror,Sci-Fi
+tt4799050,Rough Night,2017,"Comedy,Crime,Thriller",5.2,Sony,22100000.0,2017,Comedy,Crime,Thriller
+tt4846340,Hidden Figures,2016,"Biography,Drama,History",7.8,Fox,169600000.0,2016,Biography,Drama,History
+tt4877122,The Emoji Movie,2017,"Adventure,Animation,Comedy",3.2,Sony,86100000.0,2017,Adventure,Animation,Comedy
+tt4881806,Jurassic World: Fallen Kingdom,2018,"Action,Adventure,Sci-Fi",6.2,Uni.,417700000.0,2018,Action,Adventure,Sci-Fi
+tt5001718,"Everything, Everything",2017,"Drama,Romance",6.4,WB,34100000.0,2017,Drama,Romance,
+tt5013056,Dunkirk,2017,"Action,Drama,History",7.9,WB,188000000.0,2017,Action,Drama,History
+tt5028340,Mary Poppins Returns,2018,"Comedy,Family,Fantasy",6.9,BV,172000000.0,2018,Comedy,Family,Fantasy
+tt5052448,Get Out,2017,"Horror,Mystery,Thriller",7.7,Uni.,176000000.0,2017,Horror,Mystery,Thriller
+tt5052474,Sicario: Day of the Soldado,2018,"Action,Crime,Drama",7.1,Sony,50100000.0,2018,Action,Crime,Drama
+tt5095030,Ant-Man and the Wasp,2018,"Action,Adventure,Comedy",7.1,BV,216600000.0,2018,Action,Adventure,Comedy
+tt5117670,Peter Rabbit,2018,"Adventure,Animation,Comedy",6.6,Sony,115300000.0,2018,Adventure,Animation,Comedy
+tt5164432,"Love, Simon",2018,"Comedy,Drama,Romance",7.6,Fox,40800000.0,2018,Comedy,Drama,Romance
+tt5220122,Hotel Transylvania 3: Summer Vacation,2018,"Adventure,Animation,Comedy",6.3,Sony,167500000.0,2018,Adventure,Animation,Comedy
+tt5273624,Journey to the West: The Demons Strike Back,2017,"Adventure,Comedy,Fantasy",5.4,Sony,880000.0,2017,Adventure,Comedy,Fantasy
+tt5282006,The Duelist,2016,"Action,Drama,Thriller",6.4,Sony,13500.0,2016,Action,Drama,Thriller
+tt5308322,Happy Death Day,2017,"Horror,Mystery,Thriller",6.5,Uni.,55700000.0,2017,Horror,Mystery,Thriller
+tt5463162,Deadpool 2,2018,"Action,Adventure,Comedy",7.8,Fox,318500000.0,2018,Action,Adventure,Comedy
+tt5481184,League of Gods,2016,"Action,Fantasy",4.6,Sony,182000.0,2016,Action,Fantasy,
+tt5523010,The Nutcracker and the Four Realms,2018,"Adventure,Family,Fantasy",5.5,BV,54900000.0,2018,Adventure,Family,Fantasy
+tt5580266,The Hate U Give,2018,"Crime,Drama",7.3,Fox,29700000.0,2018,Crime,Drama,
+tt5664636,Goosebumps 2: Haunted Halloween,2018,"Adventure,Comedy,Family",5.6,Sony,46700000.0,2018,Adventure,Comedy,Family
+tt5726086,Insidious: The Last Key,2018,"Horror,Mystery,Thriller",5.7,Uni.,67700000.0,2018,Horror,Mystery,Thriller
+tt5758778,Skyscraper,2018,"Action,Adventure,Thriller",5.8,Uni.,68400000.0,2018,Action,Adventure,Thriller
+tt5848272,Ralph Breaks the Internet,2018,"Adventure,Animation,Comedy",7.1,BV,201100000.0,2018,Adventure,Animation,Comedy
+tt6000478,"Roman J. Israel, Esq.",2017,"Crime,Drama,Thriller",6.4,Sony,12000000.0,2017,Crime,Drama,Thriller
+tt6003368,Diary of a Wimpy Kid: The Long Haul,2017,"Comedy,Family",4.4,Fox,20700000.0,2017,Comedy,Family,
+tt6133466,The First Purge,2018,"Action,Horror,Sci-Fi",5.1,Uni.,69500000.0,2018,Action,Horror,Sci-Fi
+tt6182908,Smallfoot,2018,"Adventure,Animation,Comedy",6.7,WB,83200000.0,2018,Adventure,Animation,Comedy
+tt6272828,Mubarakan,2017,"Comedy,Romance",5.6,Sony,759000.0,2017,Comedy,Romance,
+tt6294822,The Post,2017,"Biography,Drama,History",7.2,Fox,81900000.0,2017,Biography,Drama,History
+tt6352548,Poster Boys,2017,Comedy,5.6,Sony,97000.0,2017,Comedy,,
+tt6580564,102 Not Out,2018,"Comedy,Drama",7.5,Sony,1300000.0,2018,Comedy,Drama,
+tt6802308,The 15:17 to Paris,2018,"Biography,Drama,Thriller",5.2,WB,36300000.0,2018,Biography,Drama,Thriller
+tt6911608,Mamma Mia! Here We Go Again,2018,"Comedy,Musical,Romance",6.7,Uni.,120600000.0,2018,Comedy,Musical,Romance
+tt6921996,Johnny English Strikes Again,2018,"Action,Adventure,Comedy",6.2,Uni.,4400000.0,2018,Action,Adventure,Comedy
+tt6966692,Green Book,2018,"Biography,Comedy,Drama",8.3,Uni.,85100000.0,2018,Biography,Comedy,Drama
+tt7074886,The Front Runner,2018,"Biography,Drama,History",6.2,Sony,2000000.0,2018,Biography,Drama,History
+tt7690638,Soorma,2018,"Biography,Drama,Sport",7.4,Sony,390000.0,2018,Biography,Drama,Sport
+tt7752454,Detective Chinatown 2,2018,"Action,Comedy,Mystery",6.1,WB,2000000.0,2018,Action,Comedy,Mystery
+tt7905466,They Shall Not Grow Old,2018,"Documentary,History,War",8.4,WB,18000000.0,2018,Documentary,History,War
