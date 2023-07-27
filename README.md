@@ -1,6 +1,6 @@
 # Microsoft Studio Recommendations
 Author: Muthoni Kahuko
-#Overview
+# Overview
 This project analyzes different movie data frames that contain movie listings ratings and gross earnings from 2011 - 2018
 
 # Business Problem
@@ -23,7 +23,7 @@ In order to give a conclusive recommendation I used the following steps:
 # Results
 We discovered Bv has the highest ranking among the studios and Comedy does well as a genre
 
-# Conslusion
+# Conclusion
 This analysis leads to 2 recommendations in order to have a successful studio:
 - Benchmarking from BV studios who have had the highest gross earnings over the years. as well as having 4 movies in the top 5
 - Microsoft should venture into Comedy, drama, or Documentaries as they have the highest Domestic gross as well as merging genres
